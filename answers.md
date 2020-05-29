@@ -2,11 +2,10 @@
 
 ## Question 1
 >I'm new to search engines, and there are a lot of concepts I'm not educated on. To make my onboarding smoother, it'd help if you could provide me with some definitions of the following concepts:
-
 >Records
 >Indexing
 >I'm also struggling with understanding what types of metrics would be useful to include in the "Custom Ranking."
-
+>
 >Cheers, George
 
 Hi George,
@@ -17,7 +16,7 @@ Indexing is a way of storing and optimizing this structured data for very fast 
 
 Once the records are found another key attribute of search is returning the most relevant results. This is where custom ranking comes into play. Custom ranking allows the results to improved based on other attributes - for example, by ranking the most popular products more highly in the results. Here is additional information on custom ranking that may be helpful: [custom ranking](https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/).
 
-Please let me know if I can help in anyway. 
+Please let me know if I can provide any assistance. 
 
 Best regards,
 
